@@ -1,0 +1,5 @@
+gitingest 
+llama-index 
+llama-index-llms-ollama 
+llama-index-agent-openai 
+llama-index-llms-openai --upgrade --quiet
